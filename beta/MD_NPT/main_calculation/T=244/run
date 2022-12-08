@@ -1,0 +1,1 @@
+lmp -in T=244/in.MD -screen T=244/out.MD &

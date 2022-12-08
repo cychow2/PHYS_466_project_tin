@@ -1,0 +1,36 @@
+# Get bulk modulus by recording volume under different pressures
+
+# Variables
+variable scale string 10
+variable N equal (${scale}^3)*8
+variable datafile string init_datafiles/Sn_alpha_${N}.dat
+variable simname string bulk_modulus_${N}
+log log.${simname}
+
+# Initialization
+print "Running volume relaxation under barostat with scale = ${scale}, N = ${N}, datafile = ${datafile}"
+units metal
+dimension 3
+atom_style atomic
+pair_style kim MEAM_LAMMPS_KoKimKwon_2018_Sn__MO_129364204512_001
+boundary p p p
+
+# System definition
+read_data ${datafile}
+
+# Simulation settings
+mass 1 118.71
+pair_coeff * * Sn
+neigh_modify every 1 delay 0 check yes
+fix 1 all press/berendsen iso 0.995 1.005 100
+
+# Output settings
+variable pressure equal press
+variable volume equal vol
+thermo 50
+thermo_style custom step temp ke pe etotal press vol
+dump mydmp all atom 1000 trj.${simname}
+
+# Run
+fix extra all print 50 "Pressure = ${pressure}, volume = ${volume}" append output.bulk_modulus
+run 1000

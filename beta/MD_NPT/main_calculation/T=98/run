@@ -1,0 +1,1 @@
+lmp -in T=98/in.MD -screen T=98/out.MD &

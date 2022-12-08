@@ -1,0 +1,130 @@
+2022-11-09:20:28:16CST * 0 * information * 0x55ea15cb2020 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:28:16CST * 0 * information * 0x55ea15cb23b0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:28:16CST * 1 * information * 0x55ea15cb23b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55ea15cb2020_Collections'.
+2022-11-09:20:28:16CST * 2 * information * 0x55ea15cb2020_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ea15cb23b0'.
+2022-11-09:20:28:16CST * 1 * error * 0x55ea15cb2020 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-11-09:20:28:16CST * 3 * information * 0x55ea15cb2020_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:28:16CST * 2 * information * 0x55ea15cb2020 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-11-09:20:28:16CST * 3 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ea15cb2020'.
+2022-11-09:20:28:16CST * 0 * information * 0x55ea15cb4200 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:28:16CST * 1 * information * 0x55ea15cb4200 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55ea15cb4200'.
+2022-11-09:20:28:16CST * 2 * information * 0_Model_0x55ea15cb4200 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ea15cb4200'.
+2022-11-09:20:28:16CST * 3 * information * 0_Model_0x55ea15cb4200 * meam_implementation.cpp:1606 * Register argument support status
+2022-11-09:20:28:16CST * 4 * information * 0_Model_0x55ea15cb4200 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-11-09:20:28:16CST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55ea15cb4200'.
+2022-11-09:20:28:16CST * 0 * information * 0x55ea15cb23b0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:28:16CST * 1 * information * 0x55ea15cb23b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Collections'.
+2022-11-09:20:28:16CST * 2 * information * 0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ea15cb23b0'.
+2022-11-09:20:28:16CST * 3 * information * 0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:29:47CST * 0 * information * 0x560a6f87b020 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:29:47CST * 0 * information * 0x560a6f87b3b0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:29:47CST * 1 * information * 0x560a6f87b3b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x560a6f87b020_Collections'.
+2022-11-09:20:29:47CST * 2 * information * 0x560a6f87b020_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x560a6f87b3b0'.
+2022-11-09:20:29:47CST * 1 * error * 0x560a6f87b020 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-11-09:20:29:47CST * 3 * information * 0x560a6f87b020_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:29:47CST * 2 * information * 0x560a6f87b020 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-11-09:20:29:47CST * 3 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x560a6f87b020'.
+2022-11-09:20:29:47CST * 0 * information * 0x560a6f87d200 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:29:47CST * 1 * information * 0x560a6f87d200 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x560a6f87d200'.
+2022-11-09:20:29:47CST * 2 * information * 0_Model_0x560a6f87d200 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x560a6f87d200'.
+2022-11-09:20:29:47CST * 3 * information * 0_Model_0x560a6f87d200 * meam_implementation.cpp:1606 * Register argument support status
+2022-11-09:20:29:47CST * 4 * information * 0_Model_0x560a6f87d200 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-11-09:20:29:47CST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x560a6f87d200'.
+2022-11-09:20:29:47CST * 0 * information * 0x560a6f87b3b0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:29:47CST * 1 * information * 0x560a6f87b3b0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Collections'.
+2022-11-09:20:29:47CST * 2 * information * 0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x560a6f87b3b0'.
+2022-11-09:20:29:47CST * 3 * information * 0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:30:38CST * 0 * information * 0x5570aead71f0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:38CST * 0 * information * 0x5570aead7580 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:38CST * 1 * information * 0x5570aead7580 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x5570aead71f0_Collections'.
+2022-11-09:20:30:38CST * 2 * information * 0x5570aead71f0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5570aead7580'.
+2022-11-09:20:30:38CST * 1 * error * 0x5570aead71f0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-11-09:20:30:38CST * 3 * information * 0x5570aead71f0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:30:38CST * 2 * information * 0x5570aead71f0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-11-09:20:30:38CST * 3 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5570aead71f0'.
+2022-11-09:20:30:38CST * 0 * information * 0x5570aead9420 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:38CST * 1 * information * 0x5570aead9420 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x5570aead9420'.
+2022-11-09:20:30:38CST * 2 * information * 0_Model_0x5570aead9420 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5570aead9420'.
+2022-11-09:20:30:38CST * 3 * information * 0_Model_0x5570aead9420 * meam_implementation.cpp:1606 * Register argument support status
+2022-11-09:20:30:38CST * 4 * information * 0_Model_0x5570aead9420 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-11-09:20:30:38CST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x5570aead9420'.
+2022-11-09:20:30:38CST * 0 * information * 0x5570aead7580 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:38CST * 1 * information * 0x5570aead7580 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Collections'.
+2022-11-09:20:30:38CST * 2 * information * 0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5570aead7580'.
+2022-11-09:20:30:38CST * 3 * information * 0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:30:54CST * 0 * information * 0x55593f5f31d0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:54CST * 0 * information * 0x55593f5f3560 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:54CST * 1 * information * 0x55593f5f3560 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55593f5f31d0_Collections'.
+2022-11-09:20:30:54CST * 2 * information * 0x55593f5f31d0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55593f5f3560'.
+2022-11-09:20:30:54CST * 1 * error * 0x55593f5f31d0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-11-09:20:30:54CST * 3 * information * 0x55593f5f31d0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:30:54CST * 2 * information * 0x55593f5f31d0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-11-09:20:30:54CST * 3 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55593f5f31d0'.
+2022-11-09:20:30:54CST * 0 * information * 0x55593f5f5400 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:54CST * 1 * information * 0x55593f5f5400 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55593f5f5400'.
+2022-11-09:20:30:54CST * 2 * information * 0_Model_0x55593f5f5400 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55593f5f5400'.
+2022-11-09:20:30:54CST * 3 * information * 0_Model_0x55593f5f5400 * meam_implementation.cpp:1606 * Register argument support status
+2022-11-09:20:30:54CST * 4 * information * 0_Model_0x55593f5f5400 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-11-09:20:30:54CST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55593f5f5400'.
+2022-11-09:20:30:54CST * 0 * information * 0x55593f5f3560 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:30:54CST * 1 * information * 0x55593f5f3560 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Collections'.
+2022-11-09:20:30:54CST * 2 * information * 0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55593f5f3560'.
+2022-11-09:20:30:54CST * 3 * information * 0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:53:08CST * 0 * information * 0x55ff61b79fc0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:08CST * 0 * information * 0x55ff61b7a330 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:08CST * 1 * information * 0x55ff61b7a330 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55ff61b79fc0_Collections'.
+2022-11-09:20:53:08CST * 2 * information * 0x55ff61b79fc0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ff61b7a330'.
+2022-11-09:20:53:08CST * 1 * error * 0x55ff61b79fc0 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-11-09:20:53:08CST * 3 * information * 0x55ff61b79fc0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:53:08CST * 2 * information * 0x55ff61b79fc0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-11-09:20:53:08CST * 3 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ff61b79fc0'.
+2022-11-09:20:53:08CST * 0 * information * 0x55ff61b7c210 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:08CST * 1 * information * 0x55ff61b7c210 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55ff61b7c210'.
+2022-11-09:20:53:08CST * 2 * information * 0_Model_0x55ff61b7c210 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ff61b7c210'.
+2022-11-09:20:53:08CST * 3 * information * 0_Model_0x55ff61b7c210 * meam_implementation.cpp:1606 * Register argument support status
+2022-11-09:20:53:08CST * 4 * information * 0_Model_0x55ff61b7c210 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-11-09:20:53:08CST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55ff61b7c210'.
+2022-11-09:20:53:08CST * 0 * information * 0x55ff61b7a330 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:08CST * 1 * information * 0x55ff61b7a330 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Collections'.
+2022-11-09:20:53:08CST * 2 * information * 0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55ff61b7a330'.
+2022-11-09:20:53:08CST * 3 * information * 0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:53:16CST * 0 * information * 0x55a45e490130 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:16CST * 0 * information * 0x55a45e490510 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:16CST * 1 * information * 0x55a45e490510 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x55a45e490130_Collections'.
+2022-11-09:20:53:16CST * 2 * information * 0x55a45e490130_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55a45e490510'.
+2022-11-09:20:53:16CST * 1 * error * 0x55a45e490130 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-11-09:20:53:16CST * 3 * information * 0x55a45e490130_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:53:16CST * 2 * information * 0x55a45e490130 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-11-09:20:53:16CST * 3 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55a45e490130'.
+2022-11-09:20:53:16CST * 0 * information * 0x55a45e492420 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:16CST * 1 * information * 0x55a45e492420 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x55a45e492420'.
+2022-11-09:20:53:16CST * 2 * information * 0_Model_0x55a45e492420 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55a45e492420'.
+2022-11-09:20:53:16CST * 3 * information * 0_Model_0x55a45e492420 * meam_implementation.cpp:1606 * Register argument support status
+2022-11-09:20:53:16CST * 4 * information * 0_Model_0x55a45e492420 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-11-09:20:53:16CST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x55a45e492420'.
+2022-11-09:20:53:16CST * 0 * information * 0x55a45e490510 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:20:53:16CST * 1 * information * 0x55a45e490510 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Collections'.
+2022-11-09:20:53:16CST * 2 * information * 0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x55a45e490510'.
+2022-11-09:20:53:16CST * 3 * information * 0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:55:07CST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:20:55:07CST * 0 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:21:00:45CST * 0 * information * 0x5597e93ef750 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:21:00:45CST * 0 * information * 0x5597e93efae0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:21:00:45CST * 1 * information * 0x5597e93efae0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0x5597e93ef750_Collections'.
+2022-11-09:21:00:45CST * 2 * information * 0x5597e93ef750_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5597e93efae0'.
+2022-11-09:21:00:45CST * 1 * error * 0x5597e93ef750 * KIM_SharedLibrary.cpp:348 * SharedLibrary not open.
+2022-11-09:21:00:45CST * 3 * information * 0x5597e93ef750_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:21:00:45CST * 2 * information * 0x5597e93ef750 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model'.
+2022-11-09:21:00:45CST * 3 * information * 0_Model * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5597e93ef750'.
+2022-11-09:21:00:45CST * 0 * information * 0x5597e93f1b90 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:21:00:45CST * 1 * information * 0x5597e93f1b90 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Model_0x5597e93f1b90'.
+2022-11-09:21:00:45CST * 2 * information * 0_Model_0x5597e93f1b90 * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5597e93f1b90'.
+2022-11-09:21:00:45CST * 3 * information * 0_Model_0x5597e93f1b90 * meam_implementation.cpp:1606 * Register argument support status
+2022-11-09:21:00:45CST * 4 * information * 0_Model_0x5597e93f1b90 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_ComputeArguments'.
+2022-11-09:21:00:45CST * 5 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0_Model_0x5597e93f1b90'.
+2022-11-09:21:00:45CST * 0 * information * 0x5597e93efae0 * KIM_LogImplementation.cpp:110 * Log object created.  Default verbosity level is 'information'.
+2022-11-09:21:00:45CST * 1 * information * 0x5597e93efae0 * KIM_LogImplementation.cpp:242 * Log object renamed.  ID changed to '0_Collections'.
+2022-11-09:21:00:45CST * 2 * information * 0_Collections * KIM_LogImplementation.cpp:246 * Log object renamed.  ID changed from '0x5597e93efae0'.
+2022-11-09:21:00:45CST * 3 * information * 0_Collections * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:21:02:36CST * 0 * information * 0_ComputeArguments * KIM_LogImplementation.cpp:120 * Log object destroyed.
+2022-11-09:21:02:36CST * 0 * information * 0_Model * KIM_LogImplementation.cpp:120 * Log object destroyed.

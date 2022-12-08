@@ -1,0 +1,43 @@
+echo "running T=34 to T=23" 
+sh T=34/run &>> T=34/out.MD & 
+sh T=33/run &>> T=33/out.MD & 
+sh T=32/run &>> T=32/out.MD & 
+sh T=31/run &>> T=31/out.MD & 
+sh T=30/run &>> T=30/out.MD & 
+sh T=29/run &>> T=29/out.MD & 
+sh T=28/run &>> T=28/out.MD & 
+sh T=27/run &>> T=27/out.MD & 
+sh T=26/run &>> T=26/out.MD & 
+sh T=25/run &>> T=25/out.MD & 
+sh T=24/run &>> T=24/out.MD & 
+sh T=23/run &>> T=23/out.MD & 
+sleep 660 
+ 
+echo "running T=22 to T=11" 
+sh T=22/run &>> T=22/out.MD & 
+sh T=21/run &>> T=21/out.MD & 
+sh T=20/run &>> T=20/out.MD & 
+sh T=19/run &>> T=19/out.MD & 
+sh T=18/run &>> T=18/out.MD & 
+sh T=17/run &>> T=17/out.MD & 
+sh T=16/run &>> T=16/out.MD & 
+sh T=15/run &>> T=15/out.MD & 
+sh T=14/run &>> T=14/out.MD & 
+sh T=13/run &>> T=13/out.MD & 
+sh T=12/run &>> T=12/out.MD & 
+sh T=11/run &>> T=11/out.MD & 
+sleep 660 
+ 
+echo "running T=10 to T=1" 
+sh T=10/run &>> T=10/out.MD & 
+sh T=9/run &>> T=9/out.MD & 
+sh T=8/run &>> T=8/out.MD & 
+sh T=7/run &>> T=7/out.MD & 
+sh T=6/run &>> T=6/out.MD & 
+sh T=5/run &>> T=5/out.MD & 
+sh T=4/run &>> T=4/out.MD & 
+sh T=3/run &>> T=3/out.MD & 
+sh T=2/run &>> T=2/out.MD & 
+sh T=1/run &>> T=1/out.MD & 
+sleep 660 
+ 

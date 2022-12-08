@@ -1,0 +1,1 @@
+lmp -in T=40/in.MD -screen T=40/out.MD &

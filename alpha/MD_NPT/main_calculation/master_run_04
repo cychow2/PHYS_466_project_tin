@@ -1,0 +1,50 @@
+echo "running T=148 to T=137" 
+sh T=148/run &>> T=148/out.MD & 
+sh T=147/run &>> T=147/out.MD & 
+sh T=146/run &>> T=146/out.MD & 
+sh T=145/run &>> T=145/out.MD & 
+sh T=144/run &>> T=144/out.MD & 
+sh T=143/run &>> T=143/out.MD & 
+sh T=142/run &>> T=142/out.MD & 
+sh T=141/run &>> T=141/out.MD & 
+sh T=140/run &>> T=140/out.MD & 
+sh T=139/run &>> T=139/out.MD & 
+sh T=138/run &>> T=138/out.MD & 
+sh T=137/run &>> T=137/out.MD & 
+sleep 660 
+ 
+echo "running T=136 to T=125" 
+sh T=136/run &>> T=136/out.MD & 
+sh T=135/run &>> T=135/out.MD & 
+sh T=134/run &>> T=134/out.MD & 
+sh T=133/run &>> T=133/out.MD & 
+sh T=132/run &>> T=132/out.MD & 
+sh T=131/run &>> T=131/out.MD & 
+sh T=130/run &>> T=130/out.MD & 
+sh T=129/run &>> T=129/out.MD & 
+sh T=128/run &>> T=128/out.MD & 
+sh T=127/run &>> T=127/out.MD & 
+sh T=126/run &>> T=126/out.MD & 
+sh T=125/run &>> T=125/out.MD & 
+sleep 660 
+ 
+echo "running T=124 to T=113" 
+sh T=124/run &>> T=124/out.MD & 
+sh T=123/run &>> T=123/out.MD & 
+sh T=122/run &>> T=122/out.MD & 
+sh T=121/run &>> T=121/out.MD & 
+sh T=120/run &>> T=120/out.MD & 
+sh T=119/run &>> T=119/out.MD & 
+sh T=118/run &>> T=118/out.MD & 
+sh T=117/run &>> T=117/out.MD & 
+sh T=116/run &>> T=116/out.MD & 
+sh T=115/run &>> T=115/out.MD & 
+sh T=114/run &>> T=114/out.MD & 
+sh T=113/run &>> T=113/out.MD & 
+sleep 660 
+ 
+echo "running T=112 to T=111" 
+sh T=112/run &>> T=112/out.MD & 
+sh T=111/run &>> T=111/out.MD & 
+sleep 660 
+ 

@@ -1,0 +1,48 @@
+# Run energy minimzation to get lattice constants with different N
+
+# Variables
+variable run_id loop 10
+variable scale index 1 2 3 4 5 6 7 8 9 10
+variable N equal (${scale}^3)*4
+variable datafile string init_datafiles/Sn_beta_${N}.dat
+variable simname string lattice_constant_G_${N}
+log log.${simname}
+
+# Initialization
+print "Running energy minimization with scale = ${scale}, N = ${N}, datafile = ${datafile}"
+units metal
+dimension 3
+atom_style atomic
+pair_style kim MEAM_LAMMPS_KoKimKwon_2018_Sn__MO_129364204512_001
+boundary p p p
+
+# System definition
+read_data ${datafile}
+
+# Simulation settings
+mass 1 118.71
+pair_coeff * * Sn
+neigh_modify every 1 delay 0 check yes
+fix 1 all box/relax iso 0.0 vmax 0.01
+
+# Output settings
+variable ax equal lx/${scale}
+variable ay equal ly/${scale}
+variable az equal lz/${scale}
+variable e_per_atom equal etotal/${N}
+thermo 1
+thermo_style custom step temp ke pe etotal press v_e_per_atom v_ax v_ay v_az 
+dump mydmp all atom 1 trj.${simname}
+
+# Run
+minimize 1.0e-8 1.0e-10 10000 100000
+if "${run_id} == 1" then &
+'print "The lattice constants are ${ax} ${ay} ${az}; energy per atom is ${e_per_atom} for scale = ${scale}, N = ${N}" file output.lattice_constant_G' &
+else &
+'print "The lattice constants are ${ax} ${ay} ${az}; energy per atom is ${e_per_atom} for scale = ${scale}, N = ${N}" append output.lattice_constant_G'
+
+# Repeat
+clear
+next run_id
+next scale
+jump in.lattice_constant_G

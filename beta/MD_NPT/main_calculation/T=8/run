@@ -1,0 +1,1 @@
+lmp -in T=8/in.MD -screen T=8/out.MD &
